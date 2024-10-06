@@ -1,0 +1,67 @@
+/* Reset dasar */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Gaya untuk body */
+body {
+    font-family: 'Bernard MT Condensed', Times, serif, sans-serif;
+    line-height: 1.6;
+    background-color: #A063C8;
+    color: #A063C8;
+    padding: 80px;
+    text-align: center;
+}
+
+/* Gaya untuk header */
+header {
+    background-color: #E6C6FF;
+    color: #131212;
+    padding: 10px;
+    text-align: center;
+}
+
+header nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+header nav ul li a {
+    color: #120f0f;
+    text-decoration: none;
+}
+
+/* Gaya untuk main */
+main {
+    margin: 20px 0;
+    background: #E6C6FF;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+/* Gaya untuk gambar profil */
+.foto-profil {
+    width: 250px; /* Lebar gambar */
+    height: 250px; /* Tinggi gambar */
+    border-radius: 50%; /* Membuat gambar menjadi lingkaran */
+    display: block; /* Menampilkan gambar sebagai blok */
+    margin: 0 auto 20px; /* Menambahkan jarak dan menempatkan di tengah */
+}
+
+/* Gaya untuk footer */
+footer {
+    background-color: #F7BAD3;
+    color: #0f0c0c;
+    text-align: center;
+    padding: 10px 0;
+    width: 100%;
+    margin-top: 20px; /* Memberikan jarak antara konten dan footer */
+}
