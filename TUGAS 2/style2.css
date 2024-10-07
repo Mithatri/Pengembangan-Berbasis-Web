@@ -1,0 +1,12 @@
+div{
+   min-width: 300 px;
+   max-width: 450 px;
+   border-width: 2 px;
+   border-style: double;
+   font-style: italic;
+   text-decoration: underline;
+   text-transform: uppercase;
+   letter-spacing: 10px;
+   word-spacing: 1em;
+   text-align: center; 
+}

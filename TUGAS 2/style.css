@@ -1,0 +1,11 @@
+header {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 24pt;
+    font-weight: normal;
+    font-style: italic;
+    text-decoration: underline;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    word-spacing: 1em;
+    text-align: center;
+}

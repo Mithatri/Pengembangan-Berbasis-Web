@@ -1,0 +1,16 @@
+ul.outside-list {
+    list-style-position: outside;
+    background-color: lightgrey;
+    width: 200px;
+    border: 15px solid rgb(241, 10, 129);
+    padding: 50px;
+    margin: 20px;
+}
+ul.inside-list {
+    list-style-position: inside;
+    background-color: lightgrey;
+    width: 200px;
+    border: 15px solid rgb(241, 10, 129);
+    padding: 50px;
+    margin: 20px;
+}
